@@ -5,7 +5,7 @@
 ### My Projects
 
 [SPU CSC 2330 Counting Characters](/https://github.com/csc2330-fall2019/counting-chars-TimDrews1)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Counting Characters Output.jpg?raw=true"/>
 
 ---
 [SPU CSC 2330 Linked List (Not done yet)](/pdf/sample_presentation.pdf)
