@@ -1,7 +1,11 @@
 title: Timothy Drews # your name (or website title) here
-logo: "https://drive.google.com/drive/folders/1Z1hCuKd3MFxJ-IIzFKZV46osD5ghsRWz" # your photo (or logo) here
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  I am a programmer currently getting his degree at Seattle Pacific <br>
+  University for computer science. My specialty is Java programing <br>
+  but I am currently learning C++ at SPU. My personal interest is
+  in game programing, but I am exited to put my programming knowledge <br>
+  to the test in a professional environment.
   <br><br>
   Second description 
   <br><br>
