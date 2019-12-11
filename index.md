@@ -2,14 +2,14 @@
 
 ---
 
-### Category Name 1 
+### My Projects
 
-[Project 1 Title](/sample_page)
+[SPU CSC 2330 Counting Characters](/https://github.com/csc2330-fall2019/counting-chars-TimDrews1)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[SPU CSC 2330 Linked List (Not done yet)](/pdf/sample_presentation.pdf)
+<img src="images/Linked List.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
