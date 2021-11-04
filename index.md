@@ -4,11 +4,11 @@
 
 ### My Projects
 
-[Senior Project - aYo: The Voice Assistant for Programmers](/https://github.com/csc2330-fall2019/counting-chars-TimDrews1)
+[Senior Project - aYo: The Voice Assistant for Programmers]
 <img src="images/aYo_small.png?raw=true"/>
 
 ---
-[)](/pdf/sample_presentation.pdf)
+[Linked List](/pdf/sample_presentation.pdf)
 <img src="images/Linked List.jpg?raw=true"/>
 
 ---
