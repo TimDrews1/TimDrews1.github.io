@@ -4,11 +4,11 @@
 
 ### My Projects
 
-[SPU CSC 2330 Counting Characters](/https://github.com/csc2330-fall2019/counting-chars-TimDrews1)
+[Senior Project - aYo: The Voice Assistant for Programmers](/https://github.com/csc2330-fall2019/counting-chars-TimDrews1)
 <img src="images/CountingC.png?raw=true"/>
 
 ---
-[SPU CSC 2330 Linked List (Not done yet)](/pdf/sample_presentation.pdf)
+[)](/pdf/sample_presentation.pdf)
 <img src="images/Linked List.jpg?raw=true"/>
 
 ---
