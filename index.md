@@ -8,7 +8,7 @@
 <img src="images/aYo_small.png?raw=true"/>
 
 ---
-[CSC 3310 Triangle-Line Project - Calculates Triangles in](https://github.com/csc3310-fall2020/triangle-line-TimDrews1)
+[CSC 3310 Triangle-Line Project](https://github.com/csc3310-fall2020/triangle-line-TimDrews1)
 <img src="images/triangle_small.png?raw=true"/>
 
 ---
@@ -16,4 +16,4 @@
 ### My Certifications
 
 Microsoft Certified: Azure AI Engineer Associate
-<img src="images/triangle_small.png?raw=true"/>
+<img src="images/Cert_small.png?raw=true"/>
