@@ -4,7 +4,7 @@
 
 ### My Projects
 
-[Senior Project - aYo: The Voice Assistant for Programmers](https://github.com/JorgeRamirez7/aYo)
+[Senior Project - aYo: The Voice Assistant CReated by Programmers for Programmers](https://github.com/JorgeRamirez7/aYo)
 <img src="images/aYo_small.png?raw=true"/>
 
 ---
