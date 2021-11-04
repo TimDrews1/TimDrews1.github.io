@@ -5,7 +5,7 @@
 ### My Projects
 
 [Senior Project - aYo: The Voice Assistant for Programmers](/https://github.com/csc2330-fall2019/counting-chars-TimDrews1)
-<img src="images/aYo_image.png?raw=true"/>
+<img src="images/aYo_small.png?raw=true"/>
 
 ---
 [)](/pdf/sample_presentation.pdf)
