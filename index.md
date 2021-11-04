@@ -4,7 +4,7 @@
 
 ### My Projects
 
-[Senior Project - aYo: The Voice Assistant for Programmers]
+Senior Project - aYo: The Voice Assistant for Programmers (Private Repository - Code available upon request)
 <img src="images/aYo_small.png?raw=true"/>
 
 ---
