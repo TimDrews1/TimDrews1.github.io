@@ -9,8 +9,11 @@
 
 ---
 [CSC 3310 Triangle-Line Project - Calculates Triangles in Scheme](https://github.com/csc3310-fall2020/triangle-line-TimDrews1)
-<img src="images/Triangle_small.png?raw=true"/>
+<img src="images/triangle_small.png?raw=true"/>
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
+### My Certifications
+
+Microsoft Certified: Azure AI Engineer Associate
+<img src="images/triangle_small.png?raw=true"/>
